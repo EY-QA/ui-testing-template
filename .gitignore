@@ -1,3 +1,9 @@
 # Ignore  reports and screenshots
 reports/*.html
 screenshots/
+
+# Node
+node_modules/
+
+# Env
+.env
